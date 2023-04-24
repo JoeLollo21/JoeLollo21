@@ -3,4 +3,4 @@ I am currently a graduate studet in the [Master of Library and Information Scien
 <br><br>
 I am particularly interested in how data literacy can be applied to multiple fields to create new research discoveries, and how it can be communicated and taught for others in an accessible way.
 <br><br>
-If you're interested in learning more, you can go on [my website](joelollo21.github.io).
+If you're interested in learning more and seeing some projects, you can go on [my website](joelollo21.github.io).
